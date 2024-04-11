@@ -1,4 +1,7 @@
 # ChromaViz
+FIX OF THIS ERROR: 
+
+_MissingDynamic: `license` defined outside of `pyproject.toml` is ignored
 
 A package for visualising vector embedding collections as part of the [Chroma](https://trychroma.com) vector database. 
 
